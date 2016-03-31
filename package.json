@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/byr-gdp/learn-tdd/issues"
   },
-  "homepage": "https://github.com/byr-gdp/learn-tdd#readme"
+  "homepage": "https://github.com/byr-gdp/learn-tdd#readme",
+  "dependencies": {
+    "codecov": "^1.0.1"
+  }
 }
