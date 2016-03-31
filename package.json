@@ -1,0 +1,24 @@
+{
+  "name": "learn-tdd",
+  "version": "0.0.1",
+  "description": "learn-tdd",
+  "main": "change.js",
+  "devDependencies": {
+    "istanbul": "^0.4.2",
+    "qunit-tap": "^1.5.0",
+    "qunitjs": "^1.23.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byr-gdp/learn-tdd.git"
+  },
+  "author": "byr-gdp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/byr-gdp/learn-tdd/issues"
+  },
+  "homepage": "https://github.com/byr-gdp/learn-tdd#readme"
+}

@@ -9,7 +9,6 @@ if (typeof module !== 'undefined' && module.exports) {
   var getChange = require('./change.js'); // load our getChange method
 }
 
-console.log('in test.js');
 test('getChange(1,1) should equal [] - an empty array', function(assert) {
   var result = getChange(1, 1); //no change/coins just an empty array
   var expected = [];
